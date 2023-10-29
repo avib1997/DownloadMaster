@@ -1,0 +1,5 @@
+/Users/avibrodetsky/Projects/DownloadMaster/obj/Debug/net7.0/DownloadMaster.csproj.AssemblyReference.cache
+/Users/avibrodetsky/Projects/DownloadMaster/obj/Debug/net7.0/DownloadMaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avibrodetsky/Projects/DownloadMaster/obj/Debug/net7.0/DownloadMaster.AssemblyInfoInputs.cache
+/Users/avibrodetsky/Projects/DownloadMaster/obj/Debug/net7.0/DownloadMaster.AssemblyInfo.cs
+/Users/avibrodetsky/Projects/DownloadMaster/obj/Debug/net7.0/DownloadMaster.csproj.CoreCompileInputs.cache
